@@ -3,24 +3,46 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 12vmin;
   pointer-events: none;
+  min-height: 3.5em;
 }
 
-@media (prefers-reduced-motion: no-preference) {
+h1 {
+  font-family: 'United Sans Cond',sans-serif;
+}
+
+.message {
+  font-family: proxima-nova,sans-serif;
+  font-size: 1.25em;
+  line-height: 19px;
+}
+
+/* @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
-}
+} */
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* justify-content: center; */
+  /* font-size: calc(10px + 2vmin); */
+  color: white;
+}
+
+.App-body {
+  background-color: #282c34;
+  min-height: 90vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  /* font-size: calc(10px + 2vmin); */
   color: white;
 }
 
@@ -35,4 +57,15 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+/* .modal-close {
+  position: absolute;
+  top: 1.25em;
+  right: 1.5em;
+} */
+
+.btn-primary {
+  background-color: #00819a;
+  border-color: #00819a;
 }
