@@ -1,14 +1,20 @@
+import chayceBeckham from '../assets/chayce-beckham.jpg';
 import coleSwindell from '../assets/cole-swindell.png';
+import chrisStapleton from '../assets/chris-stapleton.jpg';
+import dustinLynch from '../assets/dustin-lynch.jpg';
+import chaseRice from '../assets/chase-rice.jpg';
+import dylanScott from '../assets/dylan-scott.jpg';
+import lionelRichie from '../assets/lionel-richie.jpg';
 
 const questions = [
     {
         question: 'Which artist is Chris Stapleton?',
         correctChoice: 3,
         choices: [
-            { id: 1, alt: 'Chayce Beckham', imgUrl: 'https://assets-global.website-files.com/62c749e61c9ae679c8f3cbe2/6377be41bccc888031e214a2_Chayce%20Beckam.jpg' },
+            { id: 1, alt: 'Chayce Beckham', imgUrl: chayceBeckham },
             { id: 2, alt: 'Cole Swindell', imgUrl: coleSwindell },
-            { id: 3, alt: 'Chris Stapleton', imgUrl: 'https://assets-global.website-files.com/62c749e61c9ae679c8f3cbe2/6377b3960a840374cb263146_ChrisStapelton.jpg' },
-            { id: 4, alt: 'Dustin Lynch', imgUrl: 'https://assets-global.website-files.com/62c749e61c9ae679c8f3cbe2/6377bae98257c90302ae4075_Dustin%20Lynch.jpg' }
+            { id: 3, alt: 'Chris Stapleton', imgUrl: chrisStapleton },
+            { id: 4, alt: 'Dustin Lynch', imgUrl: dustinLynch }
         ]
     },
     {
@@ -45,10 +51,10 @@ const questions = [
         question: 'Who is performing with Luke Bryan on Sunday?',
         correctChoice: 4,
         choices: [
-            { id: 1, alt: 'Chase Rice', imgUrl: 'https://assets-global.website-files.com/62c749e61c9ae679c8f3cbe2/6377bd20d199d3723181ecae_Chase%20Rice.jpg' },
-            { id: 2, alt: 'Dylan Scott', imgUrl: 'https://assets-global.website-files.com/62c749e61c9ae679c8f3cbe2/6377bdb2bd3bcc284ccd06c0_Dylan%20Scott.jpg' },
-            { id: 3, alt: 'Chayce Beckham', imgUrl: 'https://assets-global.website-files.com/62c749e61c9ae679c8f3cbe2/6377be41bccc888031e214a2_Chayce%20Beckam.jpg' },
-            { id: 4, alt: 'Lionel Richie', imgUrl: 'https://assets-global.website-files.com/62c749e61c9ae679c8f3cbe2/6377ba599770cc9b63aa370a_Lionel%20Richie.jpg' }
+            { id: 1, alt: 'Chase Rice', imgUrl: chaseRice },
+            { id: 2, alt: 'Dylan Scott', imgUrl: dylanScott },
+            { id: 3, alt: 'Chayce Beckham', imgUrl: chayceBeckham },
+            { id: 4, alt: 'Lionel Richie', imgUrl: lionelRichie }
         ]
     }
 ];
