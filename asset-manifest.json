@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/crashmyplaya-quiz/static/css/main.eb523ede.css",
-    "main.js": "/crashmyplaya-quiz/static/js/main.b10d8353.js",
+    "main.js": "/crashmyplaya-quiz/static/js/main.152f167e.js",
     "static/js/787.0cb3a8ad.chunk.js": "/crashmyplaya-quiz/static/js/787.0cb3a8ad.chunk.js",
     "static/media/dustin-lynch.jpg": "/crashmyplaya-quiz/static/media/dustin-lynch.21da00a1f85144bf9ac6.jpg",
     "static/media/chayce-beckham.jpg": "/crashmyplaya-quiz/static/media/chayce-beckham.a3f2fdc040f8f1b2dcea.jpg",
@@ -10,13 +10,14 @@
     "static/media/chase-rice.jpg": "/crashmyplaya-quiz/static/media/chase-rice.e016f44aa5396c18f57f.jpg",
     "static/media/chris-stapleton.jpg": "/crashmyplaya-quiz/static/media/chris-stapleton.6471202b6db9ea326391.jpg",
     "static/media/cmp.png": "/crashmyplaya-quiz/static/media/cmp.035fce24c1ed274b61c3.png",
+    "static/media/cole-swindell.jpg": "/crashmyplaya-quiz/static/media/cole-swindell.14b3e4b2ec5d024a2659.jpg",
     "index.html": "/crashmyplaya-quiz/index.html",
     "main.eb523ede.css.map": "/crashmyplaya-quiz/static/css/main.eb523ede.css.map",
-    "main.b10d8353.js.map": "/crashmyplaya-quiz/static/js/main.b10d8353.js.map",
+    "main.152f167e.js.map": "/crashmyplaya-quiz/static/js/main.152f167e.js.map",
     "787.0cb3a8ad.chunk.js.map": "/crashmyplaya-quiz/static/js/787.0cb3a8ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eb523ede.css",
-    "static/js/main.b10d8353.js"
+    "static/js/main.152f167e.js"
   ]
 }
