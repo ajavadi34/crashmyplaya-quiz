@@ -1,10 +1,12 @@
+import coleSwindell from '../assets/cole-swindell.png';
+
 const questions = [
     {
         question: 'Which artist is Chris Stapleton?',
         correctChoice: 3,
         choices: [
             { id: 1, alt: 'Chayce Beckham', imgUrl: 'https://assets-global.website-files.com/62c749e61c9ae679c8f3cbe2/6377be41bccc888031e214a2_Chayce%20Beckam.jpg' },
-            { id: 2, alt: 'Cole Swindell', imgUrl: 'https://via.placeholder.com/300x300/1a1a2e/ffffff?text=Cole+Swindell' },
+            { id: 2, alt: 'Cole Swindell', imgUrl: coleSwindell },
             { id: 3, alt: 'Chris Stapleton', imgUrl: 'https://assets-global.website-files.com/62c749e61c9ae679c8f3cbe2/6377b3960a840374cb263146_ChrisStapelton.jpg' },
             { id: 4, alt: 'Dustin Lynch', imgUrl: 'https://assets-global.website-files.com/62c749e61c9ae679c8f3cbe2/6377bae98257c90302ae4075_Dustin%20Lynch.jpg' }
         ]
