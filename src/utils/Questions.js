@@ -1,5 +1,5 @@
 import chayceBeckham from '../assets/chayce-beckham.jpg';
-import coleSwindell from '../assets/cole-swindell.png';
+import coleSwindell from '../assets/cole-swindell.jpg';
 import chrisStapleton from '../assets/chris-stapleton.jpg';
 import dustinLynch from '../assets/dustin-lynch.jpg';
 import chaseRice from '../assets/chase-rice.jpg';
