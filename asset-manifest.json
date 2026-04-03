@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/crashmyplaya-quiz/static/css/main.eb81cd44.css",
-    "main.js": "/crashmyplaya-quiz/static/js/main.672b7ee2.js",
+    "main.css": "/crashmyplaya-quiz/static/css/main.eb523ede.css",
+    "main.js": "/crashmyplaya-quiz/static/js/main.328f86de.js",
     "static/js/787.0cb3a8ad.chunk.js": "/crashmyplaya-quiz/static/js/787.0cb3a8ad.chunk.js",
     "static/media/cmp.png": "/crashmyplaya-quiz/static/media/cmp.035fce24c1ed274b61c3.png",
     "index.html": "/crashmyplaya-quiz/index.html",
-    "main.eb81cd44.css.map": "/crashmyplaya-quiz/static/css/main.eb81cd44.css.map",
-    "main.672b7ee2.js.map": "/crashmyplaya-quiz/static/js/main.672b7ee2.js.map",
+    "main.eb523ede.css.map": "/crashmyplaya-quiz/static/css/main.eb523ede.css.map",
+    "main.328f86de.js.map": "/crashmyplaya-quiz/static/js/main.328f86de.js.map",
     "787.0cb3a8ad.chunk.js.map": "/crashmyplaya-quiz/static/js/787.0cb3a8ad.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb81cd44.css",
-    "static/js/main.672b7ee2.js"
+    "static/css/main.eb523ede.css",
+    "static/js/main.328f86de.js"
   ]
 }
